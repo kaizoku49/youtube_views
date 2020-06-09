@@ -1,2 +1,2 @@
 # youtube_views
-increase the views on your youtube video
+A simple python script to get more views for your YouTube videos. Can also be used for repeating songs on YouTube.
